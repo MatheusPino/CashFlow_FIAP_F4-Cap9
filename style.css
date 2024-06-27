@@ -1,0 +1,28 @@
+.formulario {
+  max-width: 640px;
+}
+
+.bg-dark{
+  background-color: #033000 !important;
+}
+
+.nowrap {
+  white-space: nowrap;
+}
+
+.elevated-header {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.elevated-table {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.elevated-footer {
+  box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.page-color {
+  background-color: #f8f9fa;
+}
